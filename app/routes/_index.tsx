@@ -36,7 +36,6 @@ export default function Index() {
             <Banner
               title={message}
               tone="success"
-              onDismiss={() => {}}
             >
               <p>
                 This is a Remix application built for Shopify Admin with Polaris
