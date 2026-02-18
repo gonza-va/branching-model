@@ -8,4 +8,4 @@ this is a hotfix from DEV-04
 
 this is a hotfix from DEV-05 post production
 
-this is a new change from DEV-06 add from DEV-08 (QA)
+this is a new change from DEV-06 add from DEV-08 ( QA )
